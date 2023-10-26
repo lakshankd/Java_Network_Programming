@@ -50,7 +50,5 @@ public class SimpleUDPServer {
         } catch (Exception e)  {
             e.printStackTrace();
         }
-
-
     }
 }
